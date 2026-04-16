@@ -34,7 +34,7 @@
 
 ---
 
-## 🎯 Course Objective
+##  Course Objective
 
 This course is designed to teach penetration testing and vulnerability assessment from the ground up, providing a comprehensive introduction to offensive security techniques used by real-world ethical hackers and security professionals.
 
